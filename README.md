@@ -9,4 +9,4 @@
 ## License
 
 Copyright © 2021 [Data Saiyentist](https://github.com/DataSaiyentist). <br />
-This project is [MIT](https://github.com/DataSaiyentist/EnsiieS1_IPIproject/blob/e13fba33ed84a0ecc29c3eb3be20964bf05ebddc/LICENSE) licensed.
+This project is [MIT](LICENSE) licensed.
